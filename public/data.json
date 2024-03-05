@@ -1,0 +1,376 @@
+[
+  {
+    "id": 1,
+    "question": "¿En qué país se celebró la Copa Mundial de la FIFA 2018?",
+    "code": "",
+    "answers": [
+      "Francia",
+      "Brasil",
+      "Alemania",
+      "Rusia"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál es el club de fútbol más exitoso de la historia de la Liga de Campeones de la UEFA?",
+    "code": "",
+    "answers": [
+      "FC Barcelona",
+      "Real Madrid",
+      "Bayern de Múnich",
+      "AC Milan"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "¿Cuántos jugadores componen un equipo de fútbol en el campo durante un partido?",
+    "code": "",
+    "answers": [
+      "10",
+      "11",
+      "9",
+      "12"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "¿Quién es el máximo goleador de todos los tiempos en la historia de la Copa del Mundo?",
+    "code": "",
+    "answers": [
+      "Pelé",
+      "Miroslav Klose",
+      "Diego Maradona",
+      "Lionel Messi"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "¿En qué año se fundó la FIFA (Federación Internacional de Fútbol Asociación)?",
+    "code": "",
+    "answers": [
+      "1904",
+      "1930",
+      "1958",
+      "1982"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "¿En qué país se jugó el primer partido de la historia de la Copa Mundial de la FIFA en 1930?",
+    "code": "",
+    "answers": [
+      "Uruguay",
+      "Brasil",
+      "Italia",
+      "Argentina"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "¿Quién es conocido como 'El Fenómeno' y es uno de los delanteros más destacados en la historia del fútbol?",
+    "code": "",
+    "answers": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Ronaldo",
+      "Neymar"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "¿Cuál es el apodo del equipo nacional de fútbol de Argentina?",
+    "code": "",
+    "answers": [
+      "Las Águilas",
+      "Los Leones",
+      "Las Serpientes",
+      "Los Albicelestes"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 9,
+    "question": "¿Qué jugador es conocido por su apodo 'D10S' en referencia a su habilidad en el fútbol?",
+    "code": "",
+    "answers": [
+      "Lionel Messi",
+      "Diego Maradona",
+      "Neymar",
+      "Pelé"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "¿En qué país se encuentra el estadio Maracaná, uno de los estadios más famosos del mundo?",
+    "code": "",
+    "answers": [
+      "Brasil",
+      "Argentina",
+      "España",
+      "Italia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál es el club de fútbol más exitoso de la historia de la Premier League inglesa?",
+    "code": "",
+    "answers": [
+      "Manchester United",
+      "Liverpool",
+      "Chelsea",
+      "Arsenal"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "¿Cuántas veces ha ganado la selección nacional de Brasil la Copa del Mundo de la FIFA?",
+    "code": "",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "¿Quién es el máximo goleador en la historia de la Liga de Campeones de la UEFA?",
+    "code": "",
+    "answers": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Raúl",
+      "Robert Lewandowski"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "¿Qué selección nacional ganó la Copa Mundial de la FIFA en 1994?",
+    "code": "",
+    "answers": [
+      "Italia",
+      "Brasil",
+      "Argentina",
+      "Alemania"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "¿Cuál es el equipo de fútbol más antiguo del mundo que todavía juega en su estadio original?",
+    "code": "",
+    "answers": [
+      "Manchester United",
+      "FC Barcelona",
+      "Notts County",
+      "Celtic FC"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "question": "¿En qué año se jugó la primera Copa Mundial de la FIFA?",
+    "code": "",
+    "answers": [
+      "1930",
+      "1926",
+      "1950",
+      "1942"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "¿Quién es el actual capitán de la selección nacional de Portugal?",
+    "code": "",
+    "answers": [
+      "Cristiano Ronaldo",
+      "André Silva",
+      "Bernardo Silva",
+      "Pepe"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "¿Cuál es el equipo de fútbol conocido como 'Los Merengues'?",
+    "code": "",
+    "answers": [
+      "FC Barcelona",
+      "Real Madrid",
+      "Liverpool",
+      "Bayern de Múnich"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "¿Quién es el entrenador del Liverpool FC?",
+    "code": "",
+    "answers": [
+      "Jurgen Klopp",
+      "Pep Guardiola",
+      "Zinedine Zidane",
+      "Mauricio Pochettino"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "¿Cuál es el equipo de fútbol conocido como 'Los Diablos Rojos'?",
+    "code": "",
+    "answers": [
+      "Manchester United",
+      "AC Milan",
+      "Borussia Dortmund",
+      "Atletico Madrid"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "¿En qué país se celebró la Copa Mundial de la FIFA 1954?",
+    "code": "",
+    "answers": [
+      "Francia",
+      "Suiza",
+      "Alemania",
+      "Italia"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "¿Cuántas Copas del Mundo ha ganado la selección nacional de Alemania?",
+    "code": "",
+    "answers": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "¿Qué equipo de fútbol es conocido como 'Los Gunners'?",
+    "code": "",
+    "answers": [
+      "Real Madrid",
+      "Arsenal",
+      "Chelsea",
+      "Tottenham Hotspur"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "¿Quién es el entrenador del FC Barcelona?",
+    "code": "",
+    "answers": [
+      "Pep Guardiola",
+      "Luis Enrique",
+      "Ronald Koeman",
+      "Xavi Hernandez"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 25,
+    "question": "¿Cuál es el equipo de fútbol conocido como 'Los Ciudadanos'?",
+    "code": "",
+    "answers": [
+      "Manchester City",
+      "Liverpool",
+      "Manchester United",
+      "Chelsea"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "¿En qué país se celebró la Copa Mundial de la FIFA 2002?",
+    "code": "",
+    "answers": [
+      "Japón y Corea del Sur",
+      "Brasil",
+      "Italia",
+      "Alemania"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "¿Quién es conocido como 'El Matador' y es una leyenda del fútbol uruguayo?",
+    "code": "",
+    "answers": [
+      "Luis Suárez",
+      "Diego Forlán",
+      "Edinson Cavani",
+      "Enzo Francescoli"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 28,
+    "question": "¿Cuál es el equipo de fútbol más antiguo de Italia?",
+    "code": "",
+    "answers": [
+      "AC Milan",
+      "Juventus",
+      "Inter de Milán",
+      "Genoa"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 29,
+    "question": "¿En qué año se fundó la Copa Libertadores, el torneo de clubes más prestigioso de América del Sur?",
+    "code": "",
+    "answers": [
+      "1950",
+      "1960",
+      "1970",
+      "1961"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 30,
+    "question": "¿Cuál es el club de fútbol más exitoso en la historia de la Serie A italiana?",
+    "code": "",
+    "answers": [
+      "AC Milan",
+      "Juventus",
+      "Inter de Milán",
+      "Roma"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "question": "¿Cuál es el nombre completo del estadio del FC Barcelona?",
+    "code": "",
+    "answers": [
+      "Camp Nou",
+      "Estadio Barcelona",
+      "Nou Camp",
+      "Camp de Fútbol de Barcelona"
+    ],
+    "correctAnswer": 0
+  }
+    
+]
+    

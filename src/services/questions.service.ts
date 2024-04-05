@@ -1,5 +1,5 @@
 
-const URL_DATA = "http://javascript-quizz.s3-website-us-east-1.amazonaws.com/data.json"
+const URL_DATA = "https://javascript-quizz.pages.dev/data.json"
 
 export async function fetchQuestionsFromJson() {
     const res = await fetch(URL_DATA)
